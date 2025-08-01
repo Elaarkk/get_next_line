@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21548261/README.md)
-
 # get_next_line
 
 Get Next Line is a 42 school project where you have to implement a function in C that reads a file or input one line at a time.
